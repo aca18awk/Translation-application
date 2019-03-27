@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+button {
+  border-radius: 10px;
+  font-size: 30px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+
+}
+
+button:hover {
+    background-color: silver;
+}
+#hello
+{
+  margin:200px;
+	color:red;
+}
